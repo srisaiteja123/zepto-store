@@ -1,0 +1,15 @@
+.Footer-container{
+    display: flex;
+    background-color:violet;
+    justify-content: space-around;;
+    padding: 30px;
+    text-align: left;
+    color:rgb(29, 28, 28)
+    /* width: 200px; */
+}
+
+.Footer-bottom{
+    padding: 30px;
+    background-color:violet;
+    color:rgb(14, 13, 13);
+}

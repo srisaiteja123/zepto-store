@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "Freedom Refined Sunflower Oil",
+        "desc":"Freedom Refined Sunflower Oil is used for roasting and deep-frying...",
+        "price": "155",
+        "image": "/zepto-store/images/1.PNG"
+    },
+    {
+        "id": "2",
+        "name": "Heritage Cow Ghee (Pouch)",
+        "desc":"Heritage Cow Ghee is a significant source of dietary fiber, Vitamin C, sugar.",
+        "price": "543",
+        "image": "/zepto-store/images/2.PNG"
+    },
+    {
+        "id": "3",
+        "name": "Pringles Potato Chips Sour Cream & Onion Flavour",
+        "desc":" Pringles Potato Chips in its Sour Cream & Onion flavour - the perfect snack",
+        "price": "122",
+        "image": "/zepto-store/images/3.PNG"
+    },
+    {
+        "id": "4",
+        "name": "Nestlé KITKAT Minis Share Bag, Miniature Pouch",
+        "desc":"HAVE A BREAK, HAVE A KITKAT! Share your favourite treats with your favourite people ",
+        "price": "149",
+        "image": "/zepto-store/images/4.PNG"
+    },
+    {
+        "id": "5",
+        "name": "Cadbury Dairy Milk Chocolate Home Treats",
+        "desc":"Cadbury Dairy Milk offering a mouthful of goodness in every piece",
+        "price": "129",
+        "image": "/zepto-store/images/5.PNG"
+    },
+    {
+        "id": "6",
+        "name": "Bounty Miniatures Coconut Filled Chocolate Pack",
+        "desc":"Bounty Miniature chocolate pack is a perfect choice to your quality time.",
+        "price": "173",
+        "image": "/zepto-store/images/6.PNG"
+    },
+    {
+        "id": "7",
+        "name": "Heritage Total Curd",
+        "desc":"Heritage Curd is a rich foundation of calcium and proteins.",
+        "price": "117",
+        "image": "/zepto-store/images/7.PNG"
+    },
+    {
+        "id": "8",
+        "name": "Godrej Jersey Fresh Paneer",
+        "desc":"Jersey Paneer gives your dishes an extra taste that makes them delicious ",
+        "price": "162",
+        "image": "/zepto-store/images/8.PNG"
+    }
+]

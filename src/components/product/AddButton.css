@@ -1,0 +1,25 @@
+.AddButton-button {
+    background-color: rgb(226, 211, 211); 
+    padding:0px;
+    width:130px;
+    margin-top: 0px;
+    color: rgb(240, 14, 14);
+    border:solid,rgb(20, 1, 1);
+}
+
+.Plusminus-button {
+    /* background-color: silver; */
+    padding:0px;
+    width:50px;
+    margin-top: 0px;
+    text-align: center;
+    color:white;
+    
+}
+
+.Txtbox{
+    width: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
